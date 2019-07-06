@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-utils",
-  "version": "7.0.0-prerelease",
+  "version": "7.2.0-prerelease",
   "description": "Unassorted utilities used by PouchDB.",
   "main": "./lib/index.js",
   "keywords": [],
@@ -16,7 +16,7 @@
     "argsarray": "0.0.1",
     "clone-buffer": "1.0.0",
     "immediate": "3.0.6",
-    "inherits": "2.0.3",
+    "inherits": "2.0.4",
     "pouchdb-collections": "github:HitomiTenshi/pouchdb-collections",
     "pouchdb-errors": "github:HitomiTenshi/pouchdb-errors",
     "pouchdb-md5": "github:HitomiTenshi/pouchdb-md5",
